@@ -1,4 +1,4 @@
-#include <Servo.h> // [2972] 서보 헤더파일 포함
+#include <Servo.h> // 서보 헤더파일 포함
 
 /////////////////////////////
 // Configurable parameters //
